@@ -10,13 +10,9 @@ A fast emacs init loader like init-loader.el.
 * cat
 * sed
 
-## Install
+## Installation
 
-Install `fast-loader.el` to load-path directory and require it.
-
-```
-(require 'fast-loader)
-```
+Install `fast-loader.el` to load-path directory.
 
 ## Usage
 
